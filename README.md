@@ -1,2 +1,2 @@
 # ethernetContainerFc
-Layer 1 connection
+Actual Layer 1 connection
