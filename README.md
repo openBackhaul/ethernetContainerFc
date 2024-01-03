@@ -1,6 +1,5 @@
 # ethernetContainerFc
 - Model for describing frame forwarding
-- Thorsten Heinze (Thorsten.Heinze@openBackhaul.com)
 
 ### Branch
 - 1.0.0-tsi.d.t : Model for the Transport SDN Introduction at Telefonica Germany
